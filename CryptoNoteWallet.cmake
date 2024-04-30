@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "blackrose")
+set(CN_CURRENCY_DISPLAY_NAME "blackrose")
+set(CN_CURRENCY_TICKER "BR1")
+set(CN_VERSION 3.5.2)

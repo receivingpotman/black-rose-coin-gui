@@ -1,0 +1,24 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BlackRose
+GenericName=BlackRose wallet
+Name[uk]=BlackRose wallet
+Name[ru]=BlackRose wallet
+Name[pl]=BlackRose wallet
+Name[be]=BlackRose wallet
+Name[de]=BlackRose wallet
+Name[es]=BlackRose wallet
+Comment=BlackRose wallet
+Comment[uk]=BlackRose wallet
+Comment[ru]=BlackRose wallet
+Comment[pl]=BlackRose wallet
+Comment[be]=BlackRose wallet
+Comment[de]=BlackRose wallet
+Comment[es]=BlackRose wallet
+Exec=blackrose %U
+Terminal=false
+Type=Application
+Icon=blackrose
+MimeType=x-scheme-handler/blackrose;
+Categories=Office;Finance;
+Version=2.4.2
